@@ -1,0 +1,35 @@
+[2023-10-24 20:42:01.765] [info] Kempe type: Planar
+[2023-10-24 20:42:01.765] [info] Vertex size: 23, Edge size: 41, Ring size: 13
+[2023-10-24 20:42:45.383] [info] Started D-reducibility check
+[2023-10-24 20:42:45.383] [info] #1: Feasible / Total: 4904 / 66430
+[2023-10-24 20:43:27.671] [info] #2: Feasible / Total: 11947 / 66430
+[2023-10-24 20:44:10.810] [info] #3: Feasible / Total: 19451 / 66430
+[2023-10-24 20:44:42.469] [info] #4: Feasible / Total: 27259 / 66430
+[2023-10-24 20:45:09.116] [info] #5: Feasible / Total: 32736 / 66430
+[2023-10-24 20:45:24.435] [info] #6: Feasible / Total: 34276 / 66430
+[2023-10-24 20:45:34.454] [info] #7: Feasible / Total: 34418 / 66430
+[2023-10-24 20:45:44.903] [info] #8: Feasible / Total: 34433 / 66430
+[2023-10-24 20:45:55.348] [info] #9: Feasible / Total: 34434 / 66430
+[2023-10-24 20:46:05.333] [info] #9: Feasible / Total: 34434 / 66430
+[2023-10-24 20:46:05.333] [info] Graph is not D-reducible.
+[2023-10-24 20:46:05.619] [info] Started C-reducibility check
+[2023-10-24 20:46:11.794] [info] Trying 322999 possible contractions
+[2023-10-24 20:46:11.794] [info] [0/322999] Starting contraction of size 1
+[2023-10-24 21:03:58.837] [info] [28/322999] Starting contraction of size 2
+[2023-10-24 23:14:23.088] [info] [363/322999] Starting contraction of size 3
+[2023-10-25 08:11:33.949] [info] [2616/322999] Starting contraction of size 4
+[2023-10-26 01:40:36.201] [info] [12072/322999] Starting contraction of size 5
+[2023-10-27 00:55:18.688] [info] [38199/322999] Starting contraction of size 6
+[2023-10-28 00:43:19.359] [info] [87428/322999] Starting contraction of size 7
+[2023-10-28 19:31:38.194] [info] [152821/322999] Starting contraction of size 8
+[2023-10-29 08:52:52.124] [info] [216710/322999] Starting contraction of size 9
+[2023-10-29 16:12:35.984] [info] [265249/322999] Starting contraction of size 10
+[2023-10-29 19:28:30.312] [info] [295473/322999] Starting contraction of size 11
+[2023-10-29 20:40:40.710] [info] [311405/322999] Starting contraction of size 12
+[2023-10-29 21:04:26.297] [info] [318719/322999] Starting contraction of size 13
+[2023-10-29 21:11:30.460] [info] [321655/322999] Starting contraction of size 14
+[2023-10-29 21:13:16.097] [info] [322640/322999] Starting contraction of size 15
+[2023-10-29 21:13:38.670] [info] [322923/322999] Starting contraction of size 16
+[2023-10-29 21:13:42.401] [info] [322984/322999] Starting contraction of size 17
+[2023-10-29 21:13:43.046] [info] [322997/322999] Starting contraction of size 18
+[2023-10-29 21:13:43.122] [info] Graph is not C-reducible.

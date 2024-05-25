@@ -1,0 +1,14 @@
+[2023-10-24 20:42:44.829] [info] Kempe type: Planar
+[2023-10-24 20:42:44.829] [info] Vertex size: 23, Edge size: 41, Ring size: 13
+[2023-10-24 20:43:32.452] [info] Started D-reducibility check
+[2023-10-24 20:43:32.452] [info] #1: Feasible / Total: 4578 / 66430
+[2023-10-24 20:44:15.695] [info] #2: Feasible / Total: 13268 / 66430
+[2023-10-24 20:44:45.029] [info] #3: Feasible / Total: 22672 / 66430
+[2023-10-24 20:44:58.498] [info] #4: Feasible / Total: 24165 / 66430
+[2023-10-24 20:45:10.710] [info] #4: Feasible / Total: 24165 / 66430
+[2023-10-24 20:45:10.711] [info] Graph is not D-reducible.
+[2023-10-24 20:45:10.980] [info] Started C-reducibility check
+[2023-10-24 20:45:16.915] [info] Trying 322999 possible contractions
+[2023-10-24 20:45:16.915] [info] [0/322999] Starting contraction of size 1
+[2023-10-24 20:45:43.856] [info] All colors passed! Contracted: 15
+[2023-10-24 20:45:43.856] [info] Graph is C-reducible!

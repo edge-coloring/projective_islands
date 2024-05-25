@@ -1,0 +1,9 @@
+[2023-10-24 20:46:13.889] [info] Kempe type: Planar
+[2023-10-24 20:46:13.889] [info] Vertex size: 23, Edge size: 41, Ring size: 13
+[2023-10-24 20:47:07.199] [info] Started D-reducibility check
+[2023-10-24 20:47:07.200] [info] #1: Feasible / Total: 5123 / 66430
+[2023-10-24 20:48:55.010] [info] #2: Feasible / Total: 18355 / 66430
+[2023-10-24 20:50:20.776] [info] #3: Feasible / Total: 44787 / 66430
+[2023-10-24 20:50:37.255] [info] #4: Feasible / Total: 66138 / 66430
+[2023-10-24 20:50:37.435] [info] #5: Feasible / Total: 66430 / 66430
+[2023-10-24 20:50:37.435] [info] Graph is D-reducible!
